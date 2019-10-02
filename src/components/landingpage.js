@@ -20,7 +20,7 @@ class Landing extends Component{
                                 Full Stack Web Developer
                             </h1>
                             <hr/>
-                            <p className= " landing-Html"> HTML/CSS | Bootstrap | JavaScript | React | React Native | C++ | Python | Haskell</p>
+                            <p className= " landing-Html"> HTML/CSS | Bootstrap | JavaScript | React | React Native | C++ | Python | Haskell | Mongo DB | Fire Base</p>
                             <div className = "social-links">
 
                                 {/* LinkedIn*/}
